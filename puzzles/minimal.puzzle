@@ -1,0 +1,8 @@
+>> "Minimal Puzzle" "The easiest puzzle, for testing; from the spec handout"
+
+
+// word, hint, direction, row, col
+(cat, "feline companion", DOWN, 0, 1)
+(mat, "lounging place for feline companion", ACROSS, 1, 0)
+(car, "gas powered vehicle", ACROSS, 0, 1)
+(tax, "nobody likes April 15", ACROSS, 2, 1)

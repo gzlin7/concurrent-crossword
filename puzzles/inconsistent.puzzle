@@ -1,0 +1,10 @@
+>> "Easy" "An easy puzzle to get started"
+
+(star, "twinkle twinkle", ACROSS, 0, 0)
+(market, "Farmers ______", DOWN, 0, 2)
+(kettle, "It's tea time!", ACROSS, 3, 2)
+(extra, "more", DOWN, 1, 5)
+(bee, "Everyone loves honey", ACROSS, 4, 0)
+(treasure, "Every pirate's dream", ACROSS, 5, 2)
+(troll, "Everyone's favorite twitter pastime", ACROSS, 4, 4)
+(loss, "This is not a gain", DOWN, 3, 6)
